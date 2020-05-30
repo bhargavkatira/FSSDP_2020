@@ -1,0 +1,1 @@
+Print ("Destry the world")
