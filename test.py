@@ -1,5 +1,0 @@
-Print ("Destry the world")
-Print ("Destry the world")
-Print ("Destry the world")
-Print ("Destry the world")
-Print ("Destry the world")
